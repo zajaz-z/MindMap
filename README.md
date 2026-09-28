@@ -1,6 +1,6 @@
-MindMapGPT
+MindMap
 
-MindMapGPT is a search engine that turns any given topic into dynamic, visual maps. Explore by typing it the topic get a mind map of related subtopics, summaries, and source links using AI and semantic search.
+MindMap is a search engine that turns any given topic into dynamic, visual maps. Explore by typing it the topic get a mind map of related subtopics, summaries, and source links using AI and semantic search.
 
 Current Features
 
